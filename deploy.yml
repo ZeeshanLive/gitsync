@@ -1,2 +1,4 @@
-parameters: 
-    env: production
+template-file-path: template.yml
+parameters:
+  Env: test
+tags: {}
