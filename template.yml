@@ -8,3 +8,5 @@ Resources:
       Tags:
        - Key: stack
          Value: production
+       - Env: Name
+         Value: test

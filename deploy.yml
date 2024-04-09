@@ -1,4 +1,4 @@
 template-file-path: template.yml
-parameters:
-  Env: test
+# parameters:
+#   Env: test
 tags: {}
