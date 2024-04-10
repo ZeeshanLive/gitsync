@@ -9,6 +9,6 @@ template-file-path: template2.yml
 parameters:
   vpcCidr: 12.0.0.0/16
 tags: {
-  env: multicloud
+  env: multiclouaaad
 }
 
